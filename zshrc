@@ -67,3 +67,5 @@ export BROWSER='"/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"'
 sudo /etc/init.d/postgresql start
 export DISPLAY=172.31.16.1:0
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BROWSER='"/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"'
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
