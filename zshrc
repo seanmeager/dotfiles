@@ -70,3 +70,5 @@ export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BROWSER='"/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"'
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+sudo /etc/init.d/postgresql start
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
